@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.utsardi.app-mergeDebugResources-44:/layout/fragment_word_list.xml",
+        "source": "com.example.utsardi.app-main-47:/layout/fragment_word_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-mergeDebugResources-44:\\layout\\fragment_letter_list.xml",
+        "source": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-main-47:\\layout\\fragment_letter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-mergeDebugResources-44:\\layout\\fragment_word_list.xml",
+        "source": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-main-47:\\layout\\fragment_word_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-mergeDebugResources-44:\\layout\\item_view.xml",
+        "source": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-main-47:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\A R D I\\.gradle\\daemon\\7.4.2\\com.example.utsardi.app-main-47:\\layout\\activity_main.xml"
+    }
+]
